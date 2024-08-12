@@ -1,0 +1,8 @@
+segmentation-models-pytorch
+iglovikov-helper-functions
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+matplotlib
